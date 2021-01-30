@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VortexBrowser", "VortexBrowser.csproj", "{52ED5F74-0FF4-4C4E-B693-4D8996073D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52ED5F74-0FF4-4C4E-B693-4D8996073D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52ED5F74-0FF4-4C4E-B693-4D8996073D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52ED5F74-0FF4-4C4E-B693-4D8996073D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52ED5F74-0FF4-4C4E-B693-4D8996073D19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {197D70F5-09B2-47A8-A3F4-3041CC50FC15}
+	EndGlobalSection
+EndGlobal
